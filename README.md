@@ -2,7 +2,8 @@
 - 👨‍🎓👨‍🎓  Estudando para  me tornar um FullStack Developer
 - 📡 contate-me no e-mail: Thonwellingdani13@gmail.com
 ## Olá! Eu sou a Thonwelling
- <div style="display: inline_block">
+ <div style="
+ display: inline_block">
   <a href="https://github.com/THONWELLING">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=THONWELLING&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THONWELLING&layout=compact&langs_count=7&theme=radical"/>
@@ -22,7 +23,7 @@
   <img align="center" alt="Thon-PostgreSql" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"> 
    <img align="center" alt="Thon-Dotnet" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg"> 
   <img align="center" alt="Thon-Bootstrap" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"> 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css"><i class="devicon-git-plain-wordmark colored"></i>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css"><i class="devicon-git-plain-wordmark colored"></i>
 </div>
   
   ## Redes Sociais
@@ -35,8 +36,3 @@
   ![Snake animation](https://github.com/THONWELLING/THONWELLING/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-
-THONWELLING/THONWELLING is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
