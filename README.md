@@ -2,13 +2,13 @@
 - 👨‍🎓👨‍🎓  Estudando para  me tornar um FullStack Developer
 - 📡 contate-me no e-mail: Thonwellingdani13@gmail.com
 ## Olá! Eu sou a Thonwelling
- <div>
+ <div style="display: inline_block">
   <a href="https://github.com/THONWELLING">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=THONWELLING&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THONWELLING&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
-## meus conhecimentos
+## Meus Conhecimentos
 <div style="display: inline_block"><br>
   <img align="center" alt="Thon-Js" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thon-Ts" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -25,7 +25,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css"><i class="devicon-git-plain-wordmark colored"></i>
 </div>
   
-  ## Minhas redes sociais
+  ## Redes Sociais
  
 <div> 
   <a href="https://instagram.com/thonwellingd" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
