@@ -34,4 +34,4 @@
      <a href="https://www.linkedin.com/in/wellington-sousa-6494a6179" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
        
    </div>
-    ![Snake animation](https://github.com/THONWELLING/THONWELLING/blob/output/github-contribution-grid-snake.svg)
+    ![Snake gif](https://github.com/THONWELLING/THONWELLING/blob/output/github-contribution-grid-snake.svg)
