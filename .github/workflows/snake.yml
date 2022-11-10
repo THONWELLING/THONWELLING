@@ -16,11 +16,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-
-    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
-
-    # Repositorio que será utilizado para gerar os arquivos.
       - uses: Platane/snk@master
         id: snake-gif
         with:
@@ -28,14 +23,12 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - run: git status
-
       # Para as atualizações.
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
+          branch: main
           force: true
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
