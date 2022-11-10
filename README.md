@@ -33,6 +33,6 @@
      <a href = "mailto:thonwellingdani13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/wellington-sousa-6494a6179" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
        
-      https://github.com/THONWELLING/THONWELLING/blob/output/github-contribution-grid-snake.gif
+      ![nake gif](https://github.com/THONWELLING/THONWELLING/blob/output/github-contribution-grid-snake.gif)
    </div>
-    https://github.com/THONWELLING/THONWELLING/blob/b8c1e0a94a4d53dfa76656d484a2164af2574da1/github-contribution-grid-snake.gif
+   
