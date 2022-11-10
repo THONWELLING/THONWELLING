@@ -22,6 +22,10 @@ jobs:
           github_user_name: thonwelling
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
+           # Checks repo under $GITHUB_WORKSHOP, so your job can access it
+      - uses: actions/checkout@v2
+
+    # Repositorio que será utilizado para gerar os arquivos.
 
       # Para as atualizações.
       - name: Push changes
